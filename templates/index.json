@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/imgi_76_Women_Travel_With_Grace_Coddington_HP_push_1209_DI3.jpg",
-            "split_image": "shopify://shop_images/imgi_85_Women_Travel_Grace_Coddington_HP_push_1209_DII.jpg",
+            "mobile_image": "shopify://shop_images/imgi_85_Women_Travel_Grace_Coddington_HP_push_1209_DII.jpg",
             "text_position": "middle_center",
             "subheading": "",
             "title": "GRACE CODDINGTON",
