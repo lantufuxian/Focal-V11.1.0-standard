@@ -43,10 +43,82 @@
         "background": "rgba(0,0,0,0)"
       }
     },
+    "sp_image_grid_R7MtwJ": {
+      "type": "sp-image-grid",
+      "blocks": {
+        "image_EWgEyB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/imgi_99_Women_Accessories_Jewelry_2_WW_HP_Category_Push_DII.jpg",
+            "link": ""
+          }
+        },
+        "image_cwCXLN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/imgi_92_Women_Handbags_2_WW_HP_Category_Push_DII.jpg",
+            "link": ""
+          }
+        },
+        "image_V6b9AJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/imgi_149_Perfumes_2_WW_HP_Category_Push_DII.jpg",
+            "link": ""
+          }
+        },
+        "image_mG9G8k": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/imgi_108_Women_Shoes_New_WW_HP_Category_Pushes_DII.jpg",
+            "link": ""
+          }
+        },
+        "image_WzXrXH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/imgi_117_Beauty_Lips_WW_HP_Category_Push_DII.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_EWgEyB",
+        "image_cwCXLN",
+        "image_V6b9AJ",
+        "image_mG9G8k",
+        "image_WzXrXH"
+      ],
+      "name": "🚀SP - Image Grid",
+      "settings": {
+        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+        "button_background_color": "linear-gradient(164deg, rgba(17, 17, 17, 1), rgba(51, 51, 51, 1) 100%)",
+        "image_aspect_ratio": "1 / 1",
+        "max_width": 1200,
+        "grid_gap": 25,
+        "padding_top": 25,
+        "padding_bottom": 25,
+        "padding_left": 10,
+        "padding_right": 10
+      }
+    },
     "collection_list_THrkt7": {
       "type": "collection-list",
       "blocks": {
         "collection_cW4YmX": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_Jdgm9J": {
           "type": "collection",
           "settings": {
             "collection": "",
@@ -84,130 +156,18 @@
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
-        },
-        "collection_aYNbRL": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_TCVHjD": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_7BccUG": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
         "collection_cW4YmX",
+        "collection_Jdgm9J",
         "collection_bYBpzc",
-        "collection_tyrfKa",
-        "collection_aYNbRL",
-        "collection_TCVHjD",
-        "collection_7BccUG"
+        "collection_tyrfKa"
       ],
       "name": "Collection list",
       "settings": {
         "reveal_on_scroll": false,
-        "layout": "grid",
-        "subheading": "Subheading",
-        "title": "Collection list",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_3miz7C": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "link_text": "",
-            "link_url": "",
-            "text_color": "rgba(0,0,0,0)",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection_3miz7C",
-        "collection-2",
-        "collection-3"
-      ],
-      "settings": {
-        "reveal_on_scroll": false,
-        "layout": "grid",
+        "layout": "carousel",
         "subheading": "Subheading",
         "title": "Collection list",
         "background": "rgba(0,0,0,0)",
@@ -247,8 +207,8 @@
   },
   "order": [
     "slideshow",
+    "sp_image_grid_R7MtwJ",
     "collection_list_THrkt7",
-    "collection-list",
     "featured-collections"
   ]
 }
